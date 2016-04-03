@@ -1,0 +1,36 @@
+{
+  "name": "secupi-ng-slim-theme",
+  "version": "0.0.1",
+  "homepage": "https://github.com/doronzzz/secupi-slim-ng-theme",
+  "authors": [
+    "doronzzz <gourdoron@gmail.com>"
+  ],
+  "description": "secupi angular slim theme",
+  "main":[ "main.scss" ,
+         "ui.scss",
+          "fonts/themify-icons/themify-icons.css",
+          "fonts/glyphicons-halflings-regular.eot",
+          "fonts/glyphicons-halflings-regular.ttf",
+          "fonts/glyphicons-halflings-regular.woff",
+          "fonts/glyphicons-halflings-regular.woff2",
+          "fonts/themify-icons/fonts/themify.eot",
+          "fonts/themify-icons/fonts/themify.ttf",
+          "fonts/themify-icons/fonts/themify.woff",
+          ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
