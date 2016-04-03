@@ -24,6 +24,10 @@ html {
     position: relative;
     min-height: 100%; // important!
     height: 100%; // important!
+    
+    &.lock-side-bar #page-wrapper{
+        margin-left: 0px !important; 
+    }
 
     > .header-container {
         &.header-fixed {
