@@ -1,0 +1,1 @@
+# secupi-slim-ng-theme
